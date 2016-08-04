@@ -1,0 +1,29 @@
+_repo: A-Book-of-Strife-in-the-Form-of-The-Diary-of-an-Old-Soul_1953
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: Go to top; Dedication; January; February; March; April; May; June; July;
+  August; September; October; November; December; George MacDonald Biography.
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional literature'
+- !lcsh 'Devotional calendars'
+- !lcc 'PR'
+- !lcsh 'Christian poetry, English'
+- !lcsh 'English poetry'
+- GITenberg
+title: A Book of Strife in the Form of The Diary of an Old Soul
+url: http://www.gutenberg.org/ebooks/1953
